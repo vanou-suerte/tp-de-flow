@@ -1,0 +1,15 @@
+project:
+  title: "prez"
+  type: default
+
+format:
+  revealjs:
+    theme: sky
+    slide-number: true
+    controls: true
+    progress: true
+    controls-layout: bottom-right
+    navigation-mode: vertical
+    code-line-numbers: false
+editor:
+  render-on-save: true
